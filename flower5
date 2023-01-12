@@ -17,4 +17,3 @@ for i in range(17):
     t.left(18)
     t.end_fill()
 s.exitonclick()
-a
