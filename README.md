@@ -6,6 +6,4 @@
 
 **Tinggal Copy Paste Saja**
 
-# INSTAGRAM
 
-**idunnn1**
